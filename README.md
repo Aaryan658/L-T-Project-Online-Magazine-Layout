@@ -44,7 +44,7 @@ Customization
 
 Future Enhancements
 -------------------
-See project report for ideas such as adding CMS integration, login/personalization, search functionality, multimedia support, accessibility improvements, and dynamic content.
+Adding CMS integration, login/personalization, search functionality, multimedia support, accessibility improvements, and dynamic content can be done.
 
 Maintainer
 ----------
